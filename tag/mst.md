@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: "hashing"
+tag: "mst"
 robots: noindex
 ---
