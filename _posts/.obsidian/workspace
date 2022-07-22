@@ -7,8 +7,12 @@
         "id": "e37866f7d8f9891e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-07-22-cf-1473.md.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-07-22-cf-1473.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022-07-22-cf-1473.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-07-22-cf-1473.md.md"
+              }
             }
           }
         ]
@@ -123,6 +131,7 @@
   "active": "e37866f7d8f9891e",
   "lastOpenFiles": [
     "2022-07-21-cf-1709.md.md",
+    "2022-07-22-cf-1473.md.md",
     "2022-07-20-ONTAK-peaks.md"
   ]
 }
