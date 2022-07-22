@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "ebe2222399c5c927",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37866f7d8f9891e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ddb4d337afeed73",
+    "type": "split",
+    "children": [
+      {
+        "id": "995671b2b0d11e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a160c62d805f3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "506e5bb4fdbcfb1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02b2d40daecd1f5f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70b1ff02ef5a60c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a10f979f4f6f5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89042e5181a90d30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d5a4e7c5ddf38d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef54667c185049f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19036bac2189a58a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e37866f7d8f9891e",
+  "lastOpenFiles": [
+    "2022-07-21-cf-1709.md.md",
+    "2022-07-20-ONTAK-peaks.md"
+  ]
+}
