@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-02-cf-102341.md.md",
+            "file": "2022-08-08-teamscode-2022-R.md.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-02-cf-102341.md.md",
+                "file": "2022-08-08-teamscode-2022-R.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-02-cf-102341.md.md",
+                "file": "2022-08-08-teamscode-2022-R.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-02-cf-102341.md.md"
+                "file": "2022-08-08-teamscode-2022-R.md.md"
               }
             }
           }
@@ -130,8 +130,9 @@
   },
   "active": "793be7ca2bc2ea83",
   "lastOpenFiles": [
-    "2022-07-31-cf-696.md.md",
     "2022-08-02-cf-102341.md.md",
+    "2022-08-08-teamscode-2022-R.md.md",
+    "2022-07-31-cf-696.md.md",
     "2022-07-26-cf-724.md.md",
     "2022-07-25-icpc-wf-2014.md.md",
     "2022-07-22-cf-1473.md.md",
