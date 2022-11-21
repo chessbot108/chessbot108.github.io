@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-08-08-teamscode-2022-R.md",
+                "file": "2022-10-17-cf-1743-F.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31fc3672d4e056ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-20-UVA-12989.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-08-teamscode-2022-R.md",
+                "file": "2022-11-20-UVA-12989.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-08-teamscode-2022-R.md",
+                "file": "2022-11-20-UVA-12989.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-08-teamscode-2022-R.md"
+                "file": "2022-11-20-UVA-12989.md"
               }
             }
           }
@@ -152,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "336397438f16f193",
+  "active": "31fc3672d4e056ca",
   "lastOpenFiles": [
     "2022-10-17-cf-1743-F.md",
+    "2022-11-20-UVA-12989.md",
+    "2022-08-08-teamscode-2022-R.md",
     "2022-08-14-cf-1628-E.md",
     "2022-08-09-ZJOI-2022-Noodles.md",
     "2022-07-31-cf-696.md",
     "2022-08-02-cf-102341.md",
-    "2022-08-08-teamscode-2022-R.md",
     "2022-07-26-cf-724.md",
     "2022-07-25-icpc-wf-2014.md",
-    "2022-07-22-cf-1473.md",
-    "2022-07-21-cf-1709.md"
+    "2022-07-22-cf-1473.md"
   ]
 }
