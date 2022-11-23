@@ -40,6 +40,6 @@ Intuitively, for some $a_i$, the above formula always guarantees that $f(x)$ pas
 
 As a side note, it is very possible to TLE while trying to construct the right hand sum polynomial. I store the big product of $\prod_{j = 0}^{n^2} (x - j)$ and used synthetic division to divide out $(x - a_i)$ when considering $a_i$.
 
-The final complexity is $O(n^6)$ since you are doing an $n^3$ determinant for $n^2$ points to interpolate.
+The final complexity is $O(n^5)$ since you are doing an $n^3$ determinant for $n^2$ points to interpolate.
 
 Final code is [here](https://pastebin.com/DXjDtWC2)
