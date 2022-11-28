@@ -9,7 +9,7 @@ tags: segtree merge mst kruskal
 
 [luogu 41797](https://www.luogu.com.cn/problem/P4197#submit)
 
-You are given a graph of $n$ nodes and $m$ edges. Each node has a value $h$ Each edge connects two nodes $u$ and $v$ with edge weight $w$. There may be multi-edges and the graph is not guaranteed to be connected. You now have $q$ queries in the form of $v, x, k$ in which you have to output the $k$'th **largest** value of $h$ on a node that can be reached only using edges weight $x$ if you start at node $v$.
+You are given a graph of $n$ nodes and $m$ edges. Each node has a value $h$. Each edge connects two nodes $u$ and $v$ with edge weight $w$. There may be multi-edges and the graph is not guaranteed to be connected. You now have $q$ queries in the form of $v, x, k$ in which you have to output the $k$'th **largest** value of $h$ on a node that can be reached only using edges weight at most $x$ if you start at node $v$.
 
 $(n \leq 10^5), (m, q \leq 5 \cdot 10^5), (h, x, w \leq 10^9)$
 
